@@ -89,27 +89,16 @@ Reservation ID: 78995
 - Stop Date: 2019-12-04 20:00
 - Timezone: Singapore
 
-
 Networking
 ..........
 
 Hosted POC clusters follow a standard naming convention:
 
-- **Cluster Name** - POC\ *XYZ*
-- **Subnet** - 10.**21**.\ *XYZ*\ .0
-- **Cluster IP** - 10.**21**.\ *XYZ*\ .37
+- **Cluster Name** - POC021
+- **Subnet Mask** - 255.255.255.128
+- **Gateway** - 10.42.211
+- **Nameserver IP** - 10.42.196.10
 
-If provisioned from the marketing pool:
-
-- **Cluster Name** - MKT\ *XYZ*
-- **Subnet** - 10.**20**.\ *XYZ*\ .0
-- **Cluster IP** - 10.**20**.\ *XYZ*\ .37
-
-For example:
-
-- **Cluster Name** - POC055
-- **Subnet** - 10.21.55.0
-- **Cluster IP** - 10.21.55.37
 
 Throughout the Workshop there are multiple instances where you will need to substitute *XYZ* with the correct octet for your subnet, for example:
 
