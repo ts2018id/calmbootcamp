@@ -36,7 +36,7 @@
 .. _getting_started:
 
 ---------------
-Getting Started
+Pendahuluan
 ---------------
 
 Selamat datang di sesi Hands on Lab Nutanix Calm @.NEXT on Tour Jakarta!. 
@@ -61,20 +61,30 @@ Agenda
     - Calm: eScript
     - Calm: Marketplace
 
-Initial Setup
+
+Akses Lab
 +++++++++++++
 
-- Take note of the *Passwords* being used.
-- Log into your virtual desktops (connection info below)
+- User Accounts: *PHX-POC021-User01, PHX-POC021-User02 … PHX-POC021-User20*
+- User Password: nut4nixP@ssw0rd
+
+**Pulse Secure VPN Client**
+
+1. If client already installed skip to step 5 
+2. login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
+3. Download and install client
+4. Logout of the Web UI
+
 
 Environment Details
 +++++++++++++++++++
 
 Nutanix Workshops are intended to be run in the Nutanix Hosted POC environment. Your cluster will be provisioned with all necessary images, networks, and VMs required to complete the exercises.
 
-Your Reservation Information for PHX-POC021 (NX-3060).
+Your Reservation Information for **PHX-POC021** (NX-3060).
 
 Reservation ID: 78995
+
 - Start Date: 2019-11-27 20:00
 - Stop Date: 2019-12-04 20:00
 - Timezone: Singapore
