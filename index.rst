@@ -92,9 +92,9 @@ Nutanix Workshops are intended to be run in the Nutanix Hosted POC environment. 
 Your Reservation Information for PHX-POC021 (NX-3060).
 
 Reservation ID: 78995
-Start Date: 2019-11-27 20:00
-Stop Date: 2019-12-04 20:00
-Timezone: Singapore
+- Start Date: 2019-11-27 20:00
+- Stop Date: 2019-12-04 20:00
+- Timezone: Singapore
 
 
 Networking
