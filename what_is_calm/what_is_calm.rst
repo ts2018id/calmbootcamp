@@ -1,26 +1,26 @@
 .. _what_is_calm:
 
 ------------
-What Is Calm
+Apa itu Calm?
 ------------
 
-Overview
-++++++++
+Pendahuluan
++++++++++++
 
-Calm provides advanced application-level orchestration that transforms how IT teams manage applications and support the business. Fully integrated into the Nutanix platform, Calm delivers a powerful, common management framework that can be simultaneously leveraged by multiple IT teams to rapidly create and deliver applications.
+Calm menyediakan orkestrasi advanced di level aplikasi, yang menstrasform team IT dalam memanage aplikasi untuk mendukung bisnis. Terintegrasi dengan platfom Nutanix, Calm menyediakan management framework yang secara simultan meleverage team IT untuk membuat dan mendeliver aplikasi dengan cepat.
 
-By approaching applications as complete entities, not just virtual machines (VMs), Calm automates how applications are created, consumed and governed. Calm delivers simple, repeatable and automated management of applications across a variety of environments, including private and public clouds.
+Dengan pendekatan aplikasi secara utuh, bukan hanya VM, Calm mengotomatisasi bagaimana aplikasi dibangun, digunakan dan diatur. Calm menyediakan manajemen aplikasi yang otomatis, sederhana dan dapat digunakan berulang, dan dapat di gunakan di private dan public cloud.
 
-What is the State of Things Today
-+++++++++++++++++++++++++++++++++
+Kondisi Saat Ini
++++++++++++++++++
 
 Managing Apps Is Increasingly Challenging
 .........................................
 
 .. figure:: images/what_is_calm_01.png
 
-How Does Nutanix Solve This Problem
-+++++++++++++++++++++++++++++++++++
+Bagaimana Nutanix Mengatasi Masalah Ini
++++++++++++++++++++++++++++++++++++++++
 
 Foundation For Enterprise Cloud
 ...............................
