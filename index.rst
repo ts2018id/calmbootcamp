@@ -62,12 +62,12 @@ Agenda
     - Calm: Marketplace
 
 
-Environment Details
+Detail Environment
 +++++++++++++++++++
 
 Nutanix Workshops dirancang untuk lingkungan Nutanix Hosted POC, dimana semua images, network dan VMs yang diperlukan untuk menyelesaikan latihan akan disediakan.
 
-Cluster Hosted POC Reservation Information: **PHX-POC021** (NX-3060).
+Informasi Cluster Hosted POC Reservation: **PHX-POC021** (NX-3060).
 
 Reservation ID: 78995
 
@@ -94,10 +94,10 @@ Informasi Hosted POC clusters network:
 
 **Cluster IP: https://10.42.21.37:9440/console/#login**
 
-* Position: A CVM IP: 10.42.21.29 Hypervisor IP: 10.42.21.25 IPMI IP: 10.42.21.33
-* Position: B CVM IP: 10.42.21.30 Hypervisor IP: 10.42.21.26 IPMI IP: 10.42.21.34
-* Position: C CVM IP: 10.42.21.31 Hypervisor IP: 10.42.21.27 IPMI IP: 10.42.21.35
-* Position: D CVM IP: 10.42.21.32 Hypervisor IP: 10.42.21.28 IPMI IP: 10.42.21.36
+* Node: A CVM IP: 10.42.21.29 Hypervisor IP: 10.42.21.25 IPMI IP: 10.42.21.33
+* Node: B CVM IP: 10.42.21.30 Hypervisor IP: 10.42.21.26 IPMI IP: 10.42.21.34
+* Node: C CVM IP: 10.42.21.31 Hypervisor IP: 10.42.21.27 IPMI IP: 10.42.21.35
+* Node: D CVM IP: 10.42.21.32 Hypervisor IP: 10.42.21.28 IPMI IP: 10.42.21.36
 
 **Login Credentials**
 
@@ -107,7 +107,8 @@ Informasi Hosted POC clusters network:
 * Prism Central Credentials: admin / nut4nixP@ssw0rd
 * AHV Host Credentials: root / nut4nixP@ssw0rd
 
-Each cluster has a dedicated domain controller VM, **DC**, responsible for providing AD services for the **NTNXLAB.local** domain. The domain is populated with the following Users and Groups:
+Tiap cluster memiliki dedicated domain controller VM yang menyediakan layanan active directory untuk environment ini.
+Domain ini memiliki users dan groups sebagai berikut:
 
 .. list-table::
   :widths: 25 35 40
@@ -142,18 +143,20 @@ Akses Lab
 
 **Pulse Secure VPN Client**
 
-1. If client already installed skip to step 5 
+1. Step ini tidak diperlukan jika sudah meng-install VPN Client  
 2. login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
 3. Download and install client
 4. Logout of the Web UI
 
-For PHX:
+Jalankan Pulse Secure VPN Client dan konfigure VPN sesuai informasi berikut: (Pilih akses melalui PHX atau RTP)
+
+Akses PHX:
 
 - **Type** - Policy Secure (UAC) or Connection Server
 - **Name** - X-Labs - PHX
 - **Server URL** - xlv-uswest1.nutanix.com
 
-For RTP:
+Akses RTP:
 
 - **Type** - Policy Secure (UAC) or Connection Server
 - **Name** - X-Labs - RTP
