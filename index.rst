@@ -54,20 +54,6 @@ Agenda
     - Calm: Marketplace
 
 
-Akses Lab
-+++++++++++++
-
-- User Accounts: *PHX-POC021-User01, PHX-POC021-User02 … PHX-POC021-User20*
-- User Password: nut4nixP@ssw0rd
-
-**Pulse Secure VPN Client**
-
-1. If client already installed skip to step 5 
-2. login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
-3. Download and install client
-4. Logout of the Web UI
-
-
 Environment Details
 +++++++++++++++++++
 
@@ -138,27 +124,20 @@ Each cluster has a dedicated domain controller VM, **DC**, responsible for provi
     - basicuser01-basicuser25
     - nutanix/4u
 
-Access Instructions
-+++++++++++++++++++
 
-The Nutanix Hosted POC environment can be accessed a number of different ways:
 
-Parallels VDI
-.................
+Akses Lab
++++++++++++++
 
-Login to: https://xld-uswest1.nutanix.com (for PHX) or https://xld-useast1.nutanix.com (for RTP)
+- User Accounts: *PHX-POC021-User01, PHX-POC021-User02 … PHX-POC021-User20*
+- User Password: nut4nixP@ssw0rd
 
-**Nutanix Employees** - Use your NUTANIXDC credentials
-**Non-Employees** - **Username:** POCxxx-User01 (up to POCxxx-User20), **Password:** *<Provided by Instructor>*
+**Pulse Secure VPN Client**
 
-Pulse Secure VPN
-..........................
-
-To download the client: login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com - **Username:** POCxxx-User01 (up to POCxxx-User20), **Password:** *<Provided by Instructor>*
-
-Download and install the client.
-
-In Pulse Secure Client, **Add** a connection:
+1. If client already installed skip to step 5 
+2. login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
+3. Download and install client
+4. Logout of the Web UI
 
 For PHX:
 
