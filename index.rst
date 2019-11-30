@@ -17,14 +17,6 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Optional Labs
-  :name: _optional_labs
-  :hidden:
-
-  flow_assign_categories_in_calm/flow_assign_categories_in_calm
-
-.. toctree::
-  :maxdepth: 2
   :caption: Appendix
   :name: _appendix
   :hidden:
@@ -105,6 +97,14 @@ Hosted POC clusters follow a standard naming convention:
 * Position: B CVM IP: 10.42.21.30 Hypervisor IP: 10.42.21.26 IPMI IP: 10.42.21.34
 * Position: C CVM IP: 10.42.21.31 Hypervisor IP: 10.42.21.27 IPMI IP: 10.42.21.35
 * Position: D CVM IP: 10.42.21.32 Hypervisor IP: 10.42.21.28 IPMI IP: 10.42.21.36
+
+**Login Credentials**
+
+* Prism UI Credentials: admin/nut4nixP@ssw0rd
+* CVM Credentials: nutanix/nut4nixP@ssw0rd
+* Prism Central IP: 10.42.21.39 [10.42.21.39]
+* Prism Central Credentials: admin / nut4nixP@ssw0rd
+* AHV Host Credentials: root / nut4nixP@ssw0rd
 
 
 Throughout the Workshop there are multiple instances where you will need to substitute *XYZ* with the correct octet for your subnet, for example:
