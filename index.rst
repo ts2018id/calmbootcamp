@@ -39,24 +39,15 @@
 Getting Started
 ---------------
 
-Welcome to the Nutanix Calm Bootcamp!
+Selamat datang di sesi Hands on Lab Nutanix Calm @.NEXT on Tour Jakarta!. 
 
+Setiap sesi berisi teori dan latihan hands-on di Nutanix Enterprise Cloud platform. 
+Instruktur akan membantu sesi latihan dan menjawab pertanyaan yang ada.
+Di akhir Bootcamp, perserta diharapkan dapat mengerti konsep dasar teknologi stack Nutanix Enterprise Cloud.
 
+Level: Intermediate
 
-This workbook accompanies an instructor-led session that introduces Nutanix Era and many common management tasks. Each section has a lesson and an exercise to give you hands-on practice. The instructor explains the exercises and answers any additional questions that you may have.
-
-What's New
-++++++++++
-
-- Workshop updated for the following software versions:
-    - AOS & PC 5.10.x
-
-- Optional Lab Updates:
-
-Resources
-+++++++++
-
-
+Peserta diharapkan memiliki basic mengenai Nutanix
 
 Agenda
 ++++++
@@ -69,14 +60,6 @@ Agenda
     - Calm: Day 2 Actions - Scaling Out/In
     - Calm: eScript
     - Calm: Marketplace
-
-- Optional Labs
-
-Introductions
-+++++++++++++
-
-- Name
-- Familiarity with Nutanix
 
 Initial Setup
 +++++++++++++
