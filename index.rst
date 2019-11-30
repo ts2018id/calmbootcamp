@@ -144,9 +144,9 @@ Akses Lab
 **Pulse Secure VPN Client**
 
 1. Step ini tidak diperlukan jika sudah meng-install VPN Client  
-2. login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
-3. Download and install client
-4. Logout of the Web UI
+2. login ke https://xlv-uswest1.nutanix.com atau https://xlv-useast1.nutanix.com menggunakan user credential yang sudah disediakan diatas.
+3. Download dan install VPN client
+4. Logout dari Web UI
 
 Jalankan Pulse Secure VPN Client dan konfigure VPN sesuai informasi berikut: (Pilih akses melalui PHX atau RTP)
 
