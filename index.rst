@@ -91,6 +91,11 @@ Hosted POC clusters follow a standard naming convention:
 - **Gateway** - 10.42.211
 - **Nameserver IP** - 10.42.196.10
 
+- Secondary VLAN: 211
+- Secondary Subnet: 255.255.255.128
+- Secondary Gateway: 10.42.21.129
+- Secondary IP Range: 10.42.21.132-254
+
 **Cluster IP: https://10.42.21.37:9440/console/#login**
 
 * Position: A CVM IP: 10.42.21.29 Hypervisor IP: 10.42.21.25 IPMI IP: 10.42.21.33
