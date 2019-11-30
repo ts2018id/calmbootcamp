@@ -113,68 +113,6 @@ Hosted POC clusters follow a standard naming convention:
 * Prism Central Credentials: admin / nut4nixP@ssw0rd
 * AHV Host Credentials: root / nut4nixP@ssw0rd
 
-
-Throughout the Workshop there are multiple instances where you will need to substitute *XYZ* with the correct octet for your subnet, for example:
-
-.. list-table::
-  :widths: 25 75
-  :header-rows: 1
-
-  * - IP Address
-    - Description
-  * - 10.21.\ *XYZ*\ .37
-    - Nutanix Cluster Virtual IP
-  * - 10.21.\ *XYZ*\ .39
-    - **PC** VM IP, Prism Central
-  * - 10.21.\ *XYZ*\ .40
-    - **DC** VM IP, NTNXLAB.local Domain Controller
-
-Each cluster is configured with 2 VLANs which can be used for VMs:
-
-.. list-table::
-  :widths: 25 25 10 40
-  :header-rows: 1
-
-  * - Network Name
-    - Address
-    - VLAN
-    - DHCP Scope
-  * - Primary
-    - 10.21.\ *XYZ*\ .1/25
-    - 0
-    - 10.21.\ *XYZ*\ .50-10.21.\ *XYZ*\ .124
-  * - Secondary
-    - 10.21.\ *XYZ*\ .129/25
-    - *XYZ1*
-    - 10.21.\ *XYZ*\ .132-10.21.\ *XYZ*\ .253
-
-Credentials
-...........
-
-.. note::
-
-  The *<Cluster Password>* is unique to each cluster and will be provided by the leader of the Workshop.
-
-.. list-table::
-  :widths: 25 35 40
-  :header-rows: 1
-
-  * - Credential
-    - Username
-    - Password
-  * - Prism Element
-    - admin
-    - *<Cluster Password>*
-  * - Prism Central
-    - admin
-    - *<Cluster Password>*
-  * - Controller VM
-    - nutanix
-    - *<Cluster Password>*
-  * - Prism Central VM
-    - nutanix
-    - *<Cluster Password>*
-
 Each cluster has a dedicated domain controller VM, **DC**, responsible for providing AD services for the **NTNXLAB.local** domain. The domain is populated with the following Users and Groups:
 
 .. list-table::
