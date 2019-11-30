@@ -65,9 +65,9 @@ Agenda
 Environment Details
 +++++++++++++++++++
 
-Nutanix Workshops are intended to be run in the Nutanix Hosted POC environment. Your cluster will be provisioned with all necessary images, networks, and VMs required to complete the exercises.
+Nutanix Workshops dirancang untuk lingkungan Nutanix Hosted POC, dimana semua images, network dan VMs yang diperlukan untuk menyelesaikan latihan akan disediakan.
 
-Your Reservation Information for **PHX-POC021** (NX-3060).
+Cluster Hosted POC Reservation Information: **PHX-POC021** (NX-3060).
 
 Reservation ID: 78995
 
@@ -78,19 +78,19 @@ Reservation ID: 78995
 Networking
 ..........
 
-Hosted POC clusters follow a standard naming convention:
+Informasi Hosted POC clusters network:
 
 - **Cluster Name** - POC021
 - **Subnet Mask** - 255.255.255.128
 - **Gateway** - 10.42.211
 - **Nameserver IP** - 10.42.196.10
 
-**Secondary Network Information**
+**Informasi Secondary Network**
 
-- Secondary VLAN: 211
-- Secondary Subnet: 255.255.255.128
-- Secondary Gateway: 10.42.21.129
-- Secondary IP Range: 10.42.21.132-254
+- **Secondary VLAN**: 211
+- **Secondary Subnet**: 255.255.255.128
+- **Secondary Gateway**: 10.42.21.129
+- **Secondary IP Range**: 10.42.21.132-254
 
 **Cluster IP: https://10.42.21.37:9440/console/#login**
 
