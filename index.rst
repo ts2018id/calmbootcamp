@@ -17,6 +17,14 @@
 
 .. toctree::
   :maxdepth: 2
+  :caption: Optional Labs
+  :name: _optional_labs
+  :hidden:
+
+  flow_assign_categories_in_calm/flow_assign_categories_in_calm
+  
+.. toctree::
+  :maxdepth: 2
   :caption: Appendix
   :name: _appendix
   :hidden:
