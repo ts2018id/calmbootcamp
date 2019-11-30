@@ -99,6 +99,13 @@ Hosted POC clusters follow a standard naming convention:
 - **Gateway** - 10.42.211
 - **Nameserver IP** - 10.42.196.10
 
+**Cluster IP: https://10.42.21.37:9440/console/#login**
+
+* Position: A CVM IP: 10.42.21.29 Hypervisor IP: 10.42.21.25 IPMI IP: 10.42.21.33
+* Position: B CVM IP: 10.42.21.30 Hypervisor IP: 10.42.21.26 IPMI IP: 10.42.21.34
+* Position: C CVM IP: 10.42.21.31 Hypervisor IP: 10.42.21.27 IPMI IP: 10.42.21.35
+* Position: D CVM IP: 10.42.21.32 Hypervisor IP: 10.42.21.28 IPMI IP: 10.42.21.36
+
 
 Throughout the Workshop there are multiple instances where you will need to substitute *XYZ* with the correct octet for your subnet, for example:
 
