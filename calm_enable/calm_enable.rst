@@ -4,43 +4,43 @@
 Calm: Enable
 ------------
 
-Overview
-++++++++
+Pendahuluan
++++++++++++
 
 .. note::
 
-  Review :ref:`calm_basics` before proceeding with the lab to familiarize yourself with the UI and common terminology used in Nutanix Calm.
+  Review :ref:`calm_basics` sebelum melanjutkan Lab untuk membiasakan diri dengan Nutanix Calm user interface dan terminologinya. 
 
-  Estimated time to complete: **10 MINUTES**
+  Perkiraan waktu selesai dalam: **10 MINUTES**
 
-In this exercise you will enable Nutanix Calm.
+Latihan ini kita akan meng-enable Nutanix Calm.
 
 Enabling App Management
 +++++++++++++++++++++++
 
-Calm is built into Prism Central and requires no additional appliances or consoles to manage. Before you can begin managing apps in your environment with Calm, the service must be enabled.
+Calm dibangun terintegrasi dengan Prism Central, sehingga tidak membutuhkan tambahan appliance atau konsol untuk manajemen. Sebelum dapat mengelola app dengan Calm, layanan ini harus di-enable.
 
 .. note::
 
-  Calm can only be enabled once per Prism Central instance. If **Enable app management** displays a green check mark next to it, that means Calm has already been enabled for the Prism Central instance being used. Proceed to :ref:`calm_projects`.
+  Calm hanya dapat di-enable sekali per tiap Prism Central instance. Jika **Enable app management** menampilkan checkmark hijau itu artinya Calm sudah di-enable. Lanjutkan ke :ref:`calm_projects`.
 
-#. In **Prism Central**, click the **?** drop down menu, expand **New in Prism Central** and select **Enable app management**.
+#. Di **Prism Central**, klik **?** drop down menu, expand **New in Prism Central** dan pilih **Enable app management**.
 
-#. Click **Enable**.
+#. Klik **Enable**.
 
 .. figure:: images/510enable1.png
 
-#. Select **Enable App Management** and click **Save**.
+#. Pilih **Enable App Management** dan klik **Save**.
 
-.. note:: Nutanix Calm is a separately licensed product that can be used with Acropolis Starter, Pro, or Ultimate editions. Each Prism Central instance can manage up to 25 VMs for free before additional licensing is required.
+.. note:: Nutanix Calm memerlukan license terpisah yang dapat digunakan bersama license edisi Acropolis Starter, Pro, or Ultimate.
 
 .. figure:: images/510enable2.png
 
-#. You should get verification that Calm is enabling, which will take 5 to 10 minutes.
+#. Verifikasi bahwa Calm telah di-enable akan diberikan setelah kurang lebih 5-10 mennit.
 
 .. figure:: images/510enable3.png
 
-Adding Active Directory
+Menambah Active Directory
 +++++++++++++++++++++++
 
 While we're waiting for Calm to enable, we'll add an Active Directory server.  While this isn't required for basic Calm use, it is required to do any Role Based Access Control, so it's a good idea to get set up.
