@@ -29,8 +29,8 @@ Nutanix menyediakan pondasi untuk Enterprise cloud.
 
 .. figure:: images/what_is_calm_02.png
 
-Delivering the Enterprise Cloud Vision
-......................................
+Mewujudkan visi Enterprise Cloud
+................................
 
 Application Automation
 
@@ -40,8 +40,8 @@ Application Automation
 
 .. figure:: images/what_is_calm_03.png
 
-Delivering the Enterprise Cloud Vision: Multi-Cloud
-...................................................
+Mewujudkan visi Enterprise Cloud: Multi-Cloud
+.............................................
 
 Multi-Cloud Management
 
