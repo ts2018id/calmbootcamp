@@ -129,10 +129,10 @@ Automate. Empower. Relax
 Takeaways
 +++++++++
 
-Calms Native Capabilities:
+Kapabilitas Native Calms:
 
-- **Application Lifecycle Management:** Fully automate the provisioning, scaling, and deletion of both traditional multi-tiered applications and modern distributed services using pre-integrated blueprints that make management of applications in private and public clouds extremely simple.
-- **Customizable Blueprints:** Simplify the set-up and management of custom enterprise applications by incorporating all elements of each app, including relevant VMs, configurations and related binaries, into an easy-to-use-blueprint that is managed by the infrastructure team. IT teams can eliminate the hours and days currently devoted to routine application management.
+- **Application Lifecycle Management:** Otomatisasi penyediaan, scaling dan penghapusan apps baik itu tradisional multi-tiered apps maupun modern distributed services, menggunakan blueprint terintegrasi yang membuat manajemen aplikasi di private dan public menjadi mudah.
+- **Customizable Blueprints:** Menyederhanakan setting-up dan manajemen custom enterprise applications dengan menyatukan semua element dari aplikasi, termasuk relevan VM, konfigurasi dan kode binari, menjadi Blueprinnt yang mudah digunakan dan dikelola oleh IT team infrastruktur. Waktu sebelumnya habis untuk mengelola rutin aplikasi bisa digunakan untuk fokus menciptakan inovasi bisnis. 
 - **Nutanix Marketplace:** Blueprints can be published directly to end users through the Nutanix Marketplace, giving application owners and developers the ability to request IT services that can then be instantly provisioned.
 - **Governance:** Calm maintains control with role-based governance that limits user operations based on permissions. Additionally, all activities and changes are centrally logged for end-to-end traceability, aiding security teams with key compliance initiatives.
 - **Hybrid Cloud Management:** Automate the provisioning of Hybrid Cloud architectures, scaling both multi-tiered and distributed applications across different cloud environments, including AWS. Calm shows the overall utilization and true cost of your public cloud consumption at a glance so that decisions are based on business needs and budget requirements.
