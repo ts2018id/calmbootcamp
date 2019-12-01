@@ -32,11 +32,11 @@ Nutanix menyediakan pondasi untuk Enterprise cloud.
 Mewujudkan visi Enterprise Cloud
 ................................
 
-Application Automation
+Otomatisasi Applikasi
 
-- App-centric orchestrationand lifecycle management
-- Policy-based governance
-- Self-Service provisioning
+- Orkestrasi berfokus pada App dan manajemen lifecycle
+- Governance berdasarkan Policy
+- Penyediaan layanan Self-Service 
 
 .. figure:: images/what_is_calm_03.png
 
@@ -45,68 +45,68 @@ Mewujudkan visi Enterprise Cloud: Multi-Cloud
 
 Multi-Cloud Management
 
-- Abstract applications from cloud infrastructure
-- Deploy and manage applications on any cloud
-- Visibility and control of public cloud consumption
+- Abstraksi Aplikasi dari infrastruktur cloud
+- Membuat dan mengelola aplikasi di semua tipe cloud
+- Visibility dan kontrol konsumsi public cloud
 
 .. figure:: images/what_is_calm_05.png
 
-Calm: Application Lifecycle Automation
-++++++++++++++++++++++++++++++++++++++
+Calm: Otomatisasi Lifecycle Aplikasi
+++++++++++++++++++++++++++++++++++++
 
-Blueprints Capture All Elements of the Application
-..................................................
+Blueprints Menyatukan Semua Elemen Aplikasi
+...........................................
 
 .. figure:: images/what_is_calm_07.png
 
-Make Sense of Complexity in a Visual Way
-........................................
-
-- Capture organizational knowledge
-- Streamline provisioning and lifecycle tasks
-- Easy to understand dependencies
+Memetakan Kompleksitas Secara Visual
+.....................................
+ 
+- Mengumpulkan pengetahuan organisasi
+- Menyederhanakan tugas penyediaan dan lifecycle
+- Ketergantungan antar Apps mudah dimengerti
 
 .. figure:: images/what_is_calm_08.png
 
-Blueprints Are Flexible and Open
+Blueprints itu fleksibel dan terbuka
 ................................
 
-- Utilize existing Bash or Powershell scripts
-- Call any external service using REST API
+- Memanfaatkan skrip Bash-linux dan Powershell-Windows
+- Menggunakan REST API untuk memanggil layanan eksternal
 
 .. figure:: images/what_is_calm_09.png
 
-Blueprints Are Used for Lifecycle Management
-............................................
+Blueprints untuk Manajemen Lifecycle
+.....................................
 
-- Automate **routine** application management operations
-- Reduce errors,delays and downtime
+- Otomatisasi **routine** operasi manajemen aplikasi
+- Mengurangi kesalahan, delay, dan downtime
 
 .. figure:: images/what_is_calm_10.png
 
-Calm: Self-Service and Governance
+Calm: Self-Service dan Governance
 +++++++++++++++++++++++++++++++++
 
 Nutanix Marketplace Empowers Self-Service
 .........................................
 
-- One-Click App Provisioning
-- Pre-integrated blueprints
-- Self-service based onuser role and group
+- Menyediakan One-Click App
+- Blueprint Terintegrasi
+- Self-service berdasarkan user role dan group
 
 .. figure:: images/what_is_calm_11.png
 
-Deploy in One-Click
+Deploy dengan One-Click
 .........................
 
 .. figure:: images/what_is_calm_12.png
 
-End-to-End Audits and Governance
+End-to-End Audits dan Governance
 ................................
 
 .. figure:: images/what_is_calm_13.png
 
-Calm: Hybrid Cloud Management
+Calm: Manajemen Hybrid Cloud
 +++++++++++++++++++++++++++++
 
 Hybrid Cloud Management
@@ -114,10 +114,10 @@ Hybrid Cloud Management
 
 .. figure:: images/what_is_calm_14.png
 
-Deploy across Clouds Based on Need
-..................................
+Deploy disemua Clouds berdasarkan kebutuhan
+...........................................
 
-- Cloud destination is configured once, then used with any blueprint
+- Cloud tujuan dikonfigurasi sekali dan dapat digunakan semua Blueprint
 
 .. figure:: images/what_is_calm_15.png
 
@@ -126,13 +126,13 @@ Automate. Empower. Relax
 
 .. figure:: images/what_is_calm_16.png
 
-Takeaways
-+++++++++
+Kesimpulan
+++++++++++
 
 Kapabilitas Native Calms:
 
 - **Application Lifecycle Management:** Otomatisasi penyediaan, scaling dan penghapusan apps baik itu tradisional multi-tiered apps maupun modern distributed services, menggunakan blueprint terintegrasi yang membuat manajemen aplikasi di private dan public menjadi mudah.
-- **Customizable Blueprints:** Menyederhanakan setting-up dan manajemen custom enterprise applications dengan menyatukan semua element dari aplikasi, termasuk relevan VM, konfigurasi dan kode binari, menjadi Blueprinnt yang mudah digunakan dan dikelola oleh IT team infrastruktur. Waktu sebelumnya habis untuk mengelola rutin aplikasi bisa digunakan untuk fokus menciptakan inovasi bisnis. 
+- **Customizable Blueprints:** Menyederhanakan setting-up dan manajemen custom enterprise applications dengan menyatukan semua element dari aplikasi, termasuk relevan VM, konfigurasi dan kode binari, menjadi Blueprint yang mudah digunakan dan dikelola oleh IT team infrastruktur. Waktu yang sebelumnya habis untuk mengelola rutin aplikasi bisa digunakan untuk fokus menciptakan inovasi bisnis. 
 - **Nutanix Marketplace:** Blueprints can be published directly to end users through the Nutanix Marketplace, giving application owners and developers the ability to request IT services that can then be instantly provisioned.
 - **Governance:** Calm maintains control with role-based governance that limits user operations based on permissions. Additionally, all activities and changes are centrally logged for end-to-end traceability, aiding security teams with key compliance initiatives.
 - **Hybrid Cloud Management:** Automate the provisioning of Hybrid Cloud architectures, scaling both multi-tiered and distributed applications across different cloud environments, including AWS. Calm shows the overall utilization and true cost of your public cloud consumption at a glance so that decisions are based on business needs and budget requirements.
