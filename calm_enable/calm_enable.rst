@@ -65,6 +65,6 @@ Sementara kita menunggu Calm di-enable, kita akan menambah Active Diretory (AD) 
 
 .. figure:: images/510enable6.png
 
-#. Refresh browser dann pilih **Calm** dari navigation bar.  Jika Calm masih berproses, tunggu beberapa menit dan coba lagi.
+#. Refresh browser dan pilih **Calm** dari navigation bar.  Jika Calm masih berproses, tunggu beberapa menit dan coba lagi.
 
 .. figure:: images/510enable7.png
