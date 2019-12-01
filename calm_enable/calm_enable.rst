@@ -43,17 +43,17 @@ Calm dibangun terintegrasi dengan Prism Central, sehingga tidak membutuhkan tamb
 Menambah Active Directory
 +++++++++++++++++++++++
 
-While we're waiting for Calm to enable, we'll add an Active Directory server.  While this isn't required for basic Calm use, it is required to do any Role Based Access Control, so it's a good idea to get set up.
+Sementara kita menunggu Calm di-enable, kita akan menambah Active Diretory (AD) server. Untuk pemakaian basic, AD ini tidak diperlukan, namun jika ingin menggunakan Role Based Access Control, maka AD dibutuhkan.
 
-#. Click the **Gear Icon** and then **Authentication**.
+#. Klik **Gear Icon** lalu klik **Authentication**.
 
 .. figure:: images/510enable4.png
 
-#. In the pop up, click **New Directory**.
+#. Di menu pop up, klik **New Directory**.
 
 .. figure:: images/510enable5.png
 
-#. Fill out the following fields and click **Save**:
+#. Isi field yang kosong sesuai informasi AD dan klik **Save**:
 
 - **Directory Type** - Active Directory
 - **Name** - NTNXLAB
@@ -65,6 +65,6 @@ While we're waiting for Calm to enable, we'll add an Active Directory server.  W
 
 .. figure:: images/510enable6.png
 
-#. Refresh the browser and select **Calm** from the navigation bar.  If Calm is still enabling, wait another minute, and try again.
+#. Refresh browser dann pilih **Calm** dari navigation bar.  Jika Calm masih berproses, tunggu beberapa menit dan coba lagi.
 
 .. figure:: images/510enable7.png
